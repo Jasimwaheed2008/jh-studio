@@ -7,7 +7,7 @@ export const CFG = {
   instagram: "https://instagram.com/_hj_studio_",
   facebook: "https://facebook.com/hjstudio4759",
   // Deploy ke baad apna Vercel link ya domain yahan daalo (SEO ke liye)
-  siteUrl: "https://yourname.vercel.app",
+  siteUrl: "https://jhstudio-chi.vercel.app/",
 };
 
 export const wa = (text: string) =>
