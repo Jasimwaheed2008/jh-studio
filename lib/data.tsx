@@ -63,7 +63,7 @@ export const steps = [
 ];
 
 export const team = [
-  { name: "Jasim", letter: "J", role: "Co-founder. Websites, apps and Shopify.", color: "#2B50F0" },
+  { name: "Jasim", letter: "J", role: "founder. Websites, apps and Shopify.", color: "#2B50F0" },
   { name: "Huzaifa", letter: "H", role: "Co-founder. Design, ads and reports.", color: "#FF5C8A" },
 ];
 
